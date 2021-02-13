@@ -1,0 +1,14 @@
+plugins {
+    id "java"
+}
+
+group "com.commons4spring"
+version "0.0.0-DEV"
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testCompile "junit:junit:+"
+}
